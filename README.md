@@ -57,3 +57,5 @@ python main.py
 4) В файле rpc.json по пути zksync/data/rpc.json можем менять rpc на свои
 
 Инфа по апдейтам да и просто лайф блог –– https://t.me/sybilwave
+
+#1
